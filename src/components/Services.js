@@ -1,5 +1,5 @@
 import React from "react";
-import { BsArrowUpRight, BsLayoutThreeColumns } from "react-icons/bs";
+import { BsArrowUpRight} from "react-icons/bs";
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
 
@@ -75,12 +75,12 @@ const Services = () => {
                     </div>
                     <div className="flex flex-col flex-1 items-end ">
                       <a
-                        href="#"
+                        href="www.facebook.com"
                         className="btn w-9 h-9 mb-[42px] flex justify-center items-center"
                       >
                         <BsArrowUpRight />
                       </a>
-                      <a href="#" className="text-gradient text-sm">
+                      <a href="www.facebook.com" className="text-gradient text-sm">
                         {link}
                       </a>
                     </div>
