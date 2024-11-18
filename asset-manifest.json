@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Programmer-Santosh/portfolio.git/static/css/main.019f1560.css",
-    "main.js": "/Programmer-Santosh/portfolio.git/static/js/main.c4a5d9c6.js",
-    "static/media/services.png": "/Programmer-Santosh/portfolio.git/static/media/services.e57ce01b1b65468c545f.png",
-    "static/media/about.png": "/Programmer-Santosh/portfolio.git/static/media/about.eb805b1725b0abe40403.png",
-    "static/media/avatar.png": "/Programmer-Santosh/portfolio.git/static/media/avatar.0c83e2591b8585f44853.png",
-    "static/media/portfolio-img2.png": "/Programmer-Santosh/portfolio.git/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
-    "static/media/portfolio-img3.png": "/Programmer-Santosh/portfolio.git/static/media/portfolio-img3.feaef9b869e93bc6ac43.png",
-    "static/media/site-bg.jpg": "/Programmer-Santosh/portfolio.git/static/media/site-bg.54724d703024833ef9c6.jpg",
-    "static/media/portfolio-img1.png": "/Programmer-Santosh/portfolio.git/static/media/portfolio-img1.65b23e5c313b18600f24.png",
-    "index.html": "/Programmer-Santosh/portfolio.git/index.html",
-    "static/media/logo.svg": "/Programmer-Santosh/portfolio.git/static/media/logo.64d07cbb3d4a9a670761ae8c260ab851.svg",
-    "main.019f1560.css.map": "/Programmer-Santosh/portfolio.git/static/css/main.019f1560.css.map",
-    "main.c4a5d9c6.js.map": "/Programmer-Santosh/portfolio.git/static/js/main.c4a5d9c6.js.map"
+    "main.css": "/Programmer-Santosh/portfolio/static/css/main.724c8801.css",
+    "main.js": "/Programmer-Santosh/portfolio/static/js/main.89c444d3.js",
+    "static/media/services.png": "/Programmer-Santosh/portfolio/static/media/services.e57ce01b1b65468c545f.png",
+    "static/media/about.png": "/Programmer-Santosh/portfolio/static/media/about.eb805b1725b0abe40403.png",
+    "static/media/avatar.png": "/Programmer-Santosh/portfolio/static/media/avatar.0c83e2591b8585f44853.png",
+    "static/media/portfolio-img2.png": "/Programmer-Santosh/portfolio/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
+    "static/media/portfolio-img3.png": "/Programmer-Santosh/portfolio/static/media/portfolio-img3.feaef9b869e93bc6ac43.png",
+    "static/media/site-bg.jpg": "/Programmer-Santosh/portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/Programmer-Santosh/portfolio/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/logo.svg": "/Programmer-Santosh/portfolio/static/media/logo.64d07cbb3d4a9a670761ae8c260ab851.svg",
+    "index.html": "/Programmer-Santosh/portfolio/index.html",
+    "main.724c8801.css.map": "/Programmer-Santosh/portfolio/static/css/main.724c8801.css.map",
+    "main.89c444d3.js.map": "/Programmer-Santosh/portfolio/static/js/main.89c444d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.019f1560.css",
-    "static/js/main.c4a5d9c6.js"
+    "static/css/main.724c8801.css",
+    "static/js/main.89c444d3.js"
   ]
 }
