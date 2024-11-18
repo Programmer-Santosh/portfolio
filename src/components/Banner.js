@@ -1,6 +1,7 @@
 import React from "react";
+//banner ko first img import
 import Image from "../assets/avatar.png";
-import { FaGithub, FaYoutube, FaDribbble } from "react-icons/fa";
+import { FaGithub, FaYoutube} from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import { fadeIn } from "../variants";
@@ -86,9 +87,8 @@ const Banner = () => {
               <a href="#">
                 <FaYoutube />
               </a>
-              <a href="#">
-                <FaDribbble />
-              </a>
+            
+          
               <a href="#">
                 <FaGithub />
               </a>

@@ -1,7 +1,10 @@
 import React from "react";
+//counting add gareko
 import CountUp from "react-countup";
 import { useInView } from "react-intersection-observer";
+// framer motion 
 import { motion } from "framer-motion";
+//transition effect for fade
 import { fadeIn } from "../variants";
 
 const About = () => {
