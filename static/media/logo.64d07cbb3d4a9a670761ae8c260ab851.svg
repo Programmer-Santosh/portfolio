@@ -1,0 +1,20 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient definition -->
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF56F6" />
+      <stop offset="50%" stop-color="#B936EE" />
+      <stop offset="100%" stop-color="#406AFF" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Top line text with gradient fill -->
+  <text x="10" y="35" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="url(#gradient)">
+    SANTOSH
+  </text>
+  
+  <!-- Bottom line text with white fill -->
+  <text x="10" y="70" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white">
+    THAPA
+  </text>
+</svg>
